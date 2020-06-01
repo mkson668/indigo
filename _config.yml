@@ -1,6 +1,6 @@
 # main text of home
-name: Aaron
-bio: A Man who travels the world eating noodles
+name: Aaron Wong
+bio: A Full Stack Developer who loves has a soft spot for JavaScript
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/15pnu3_4JoL6lYe5RgjWQpmOGk4of_2CS/view?usp=sharing
 
 url: https://mkson668.github.io
 # your url: https://USERNAME.github.io
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: twitter.com/aaronw430
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: linkedin.com/in/aaronwong430
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: github.com/mkson668
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: aaronwong668@gmail.com
 
 authors:
   johndoe:
