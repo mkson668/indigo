@@ -1,13 +1,13 @@
 # main text of home
 name: Aaron Wong
-bio: A Full Stack Developer who loves has a soft spot for JavaScript
+bio: A Full Stack Developer who has a soft spot for JavaScript
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: https://www.dropbox.com/s/c20hm81l4qzak0q/IMG_5024.PNG?dl=0
 
 # If you want to include your resume, set to true
@@ -16,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/15pnu3_4JoL6lYe5RgjWQpmOGk4of_2CS/view?usp=sharing
 
-url: https://mkson668.github.io
+url: https://mkson668.github.io/page
 # your url: https://USERNAME.github.io
 
-permalink: /page/
+permalink: /page/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
