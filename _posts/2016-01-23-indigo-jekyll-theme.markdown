@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "to be updated for now on github"
 layout: post
-date: 2016-01-23 22:10
+date: 2020-06-01 22:10
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Should add project information later here."
 category: project
-author: johndoe
+author: Aaron
 externalLink: false
 ---
 
@@ -19,7 +19,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergioko
 
 ---
 
-What has inside?
+What is inside?
 
 - Gulp
 - BrowserSync
@@ -31,5 +31,5 @@ What has inside?
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
+[Check it out](https://github.com/mkson668/) here.
 If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
