@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://www.dropbox.com/s/c20hm81l4qzak0q/IMG_5024.PNG?dl=0
+picture: /assets/images/IMG_0268.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
