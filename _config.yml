@@ -19,7 +19,7 @@ resume-url: https://drive.google.com/file/d/15pnu3_4JoL6lYe5RgjWQpmOGk4of_2CS/vi
 url: https://mkson668.github.io
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: /page/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
