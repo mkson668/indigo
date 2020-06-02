@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>My passion for programming started while I was in UBC studying as a Biology undergraduate. I found coding an extremely verstile tool that could be applied to many of my coursework tasks. For instance, I was able to automate data collection or perform machine learning algortims to perform data analysis. Ultimately, this newfound interest motivated me to transition to a degree in Computer Science instead.</p>
+<p>My passion for programming started while I was in UBC studying as a Biology undergraduate. I found coding an extremely versatile tool that could be applied to many of my coursework tasks. For instance, I was able to automate data collection or perform machine learning algortims to perform data analysis. Ultimately, this newfound interest motivated me to transition to a degree in Computer Science instead.</p>
 
 <p>My main interests include cloud computing and machine learning. I am always keen on learning about new IT trends to improve myself, and lately, I've been venturing into the realm of mobile 
 development!</p>
