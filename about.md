@@ -10,8 +10,15 @@ layout: page
 development!</p>
 
 <p>
-Currently, I am seeking an employment opportunity at a reputable organization to showcase my 
-technical skills for the growth of the company as well as to increase my expertise in the IT sector.</p>
+Currently, I am seeking an entry developer level position to showcase my 
+technical skills for the growth of the company as well as to set foot in the IT industry.</p>
+
+<h3>Volunteering</h3>
+
+<h4>UBC Computer Science Student Society</h4>
+<h5>September 2017 - May 2019</h5>
+
+<p>Served as a student volunteer responsible for distributing electronic media to members and setup venues in preparation for regular CS club events. In addition, I was tasked to organize and supervise shift calendars for 20+ club volunteers. </p>
 
 <h3>Skills</h3>
 
