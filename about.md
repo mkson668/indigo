@@ -18,7 +18,12 @@ technical skills for the growth of the company as well as to set foot in the IT 
 <h4>UBC Computer Science Student Society</h4>
 <h5>September 2017 - May 2019</h5>
 
-<p>Served as a student volunteer responsible for distributing electronic media to members and setup venues in preparation for regular CS club events. In addition, I was tasked to organize and supervise shift calendars for 20+ club volunteers. </p>
+<p>Served as a student volunteer responsible for creating and distributing electronic media to members as well as setup venues in preparation for regular CS club events. In addition, I was tasked to organize and supervise shift calendars for 20+ club volunteers. </p>
+
+<h4>UBC Game Development</h4>
+<h5>September 2018 - May 2019</h5>
+
+<p>Served as an assistant responsible for creating PowerPoint presentations regarding use of game engines such as Unity, datamining emerging game development technologies, and communicating with members regarding upcoming events. </p>
 
 <h3>Skills</h3>
 
@@ -36,7 +41,7 @@ technical skills for the growth of the company as well as to set foot in the IT 
 	<li>HTML</li>
 	<li>CSS (Sass)</li>
 	<li>CSS Frameworks (Bootstrap)</li>
-	<li>Scrum</li>
+	<li>Agile Development</li>
 	<li>TDD</li>
 </ul>
 
