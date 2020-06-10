@@ -4,14 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>My passion for programming started while I was in UBC studying as a Biology undergraduate. I found coding an extremely versatile tool that could be applied to many of my coursework tasks. For instance, I was able to automate data collection or perform machine learning algortims to perform data analysis. Ultimately, this newfound interest motivated me to transition to a degree in Computer Science instead.</p>
+<p>My passion for programming started while I was in UBC studying as a Biology undergraduate. A fellow classmate introduced me to programming and it immediately struck me as an extremely versatile tool that could be applied to many of my coursework tasks. For instance, I was able to automate data collection using BeautifulSoup/Python or use machine learning algorithms to perform advanced data analysis by calling TensorFlow libraries. Ultimately, this newfound interest motivated me to transition to a degree in Computer Science instead.</p>
 
-<p>My main interests include cloud computing and machine learning. I am always keen on learning about new IT trends to improve myself, and lately, I've been venturing into the realm of mobile 
-development!</p>
+<p>My main interests include cloud computing and machine learning. I am always keen on learning about new IT trends to improve myself, and lately, I've been venturing into the realm of mobile development!</p>
 
 <p>
-Currently, I am seeking an entry developer level position to showcase my 
-technical skills for the growth of the company as well as to set foot in the IT industry.</p>
+Currently, I am seeking an entry level developer position to showcase my technical skills for the growth of the company as well as to garner knowledge about new or emerging technologies in the IT sector. </p>
 
 <h3>Volunteering</h3>
 
